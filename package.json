@@ -1,0 +1,19 @@
+{
+  "name": "my-package",
+  "version": "0.0.2",
+  "description": "\"# my-example-package\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ami777/my-example-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ami777/my-example-package/issues"
+  },
+  "homepage": "https://github.com/Ami777/my-example-package#readme"
+}
